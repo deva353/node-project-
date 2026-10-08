@@ -1,5 +1,5 @@
 const API_URL =
-    "http://localhost:5000/api";
+    "https://node-project-62o9-63rp5mbjf-deva-9401.vercel.app/api";
 
 
 const request = async (
